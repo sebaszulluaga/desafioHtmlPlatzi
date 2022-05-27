@@ -78,3 +78,15 @@ png 24  mas colore, mas pesados
 jpg fotografias
 svg vertor/lossless  para iconos nunca se pierde calidad
 
+_----------------------------------
+Tamaño máximo recomendado para una imágen:
+
+70kb
+.
+Herramientas para optimizar imágenes:
+
+Tiny PNG: Comprime el tamaño de una imagen, para hacerla más ligera.
+
+Verefix: Elimina los metadatos de una imagen, para reducir su tamaño.
+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
+
